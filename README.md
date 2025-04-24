@@ -38,11 +38,7 @@ The **Travel Budget Calculator Chatbot** is a smart and interactive tool designe
 ---
 
 ## 📸 Screenshots
-> 📷 Add your chatbot screenshots below
-
-- Screenshot 1: Chatbot interface with user input
-- Screenshot 2: Calculated trip cost output
-- Screenshot 3: Saved budget plans page
+![image_alt](https://github.com/abhishekp-786/Travel-Budget-Calculator-Chatbot/blob/main/Screenshot%202025-04-24%20194605.png)
 
 ---
 
