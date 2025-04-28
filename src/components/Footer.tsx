@@ -13,15 +13,7 @@ const Footer: React.FC = () => {
             <p className="text-gray-500 text-xs mt-1">
               API Partner ID: 624736
             </p>
-            <p className="text-gray-500 text-xs mt-1 font-semibold">
-            Developed by <span className="text-teal-600">Abhishek Kumar Prajapati(12304652)</span>
-            </p>
-            <p className="text-gray-500 text-xs mt-1 font-semibold">
-            Developed by <span className="text-teal-600">Ankur Mishra(12326893)</span>
-            </p>
-            <p className="text-gray-500 text-xs mt-1 font-semibold">
-            Developed by <span className="text-teal-600">Dipesh Kumar(12315214)</span>
-            </p>
+            
           </div>
           
           <div className="flex items-center">
